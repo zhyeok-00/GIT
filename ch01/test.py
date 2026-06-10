@@ -1,1 +1,1 @@
-print('say hello ^_^')
+print('say hello ㅠ_ㅠ..')
